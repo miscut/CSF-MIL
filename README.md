@@ -1,10 +1,11 @@
 # CSF-MIL
 
-# Step 1: data preparation
-Extract features of WSI's patches according to CLAM
+# Step 1: Data preparation
+Extract features of WSI's patches.
+Follow the WSI preprocessing protocol of CLAM.
 
-# Train CSF-MIL
-Run
+# Step 2: Train CSF-MIL
+Run 1.1_csfmil_train.py
 
-# Tset CSF-MIL
-Run
+# Step 3: Tset CSF-MIL
+Run  1.2_csfmil_test.py
